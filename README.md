@@ -1,1 +1,1 @@
-Java code for Fiji to measure 8oxo labelling from tom+ cells of 
+Java code for Fiji to identify 8oxo labelling in Tom+ cells from brain slices with Cellpose-based detection 
